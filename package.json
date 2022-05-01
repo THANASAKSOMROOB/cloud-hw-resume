@@ -9,6 +9,9 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "url": "https://github.com/THANASAKSOMROOB/cloud-hw-resume"
+  },
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
